@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learn-typing/static/css/main.acc72603.css",
+    "main.js": "/learn-typing/static/js/main.0978bb0d.js",
+    "static/js/787.34192d8a.chunk.js": "/learn-typing/static/js/787.34192d8a.chunk.js",
+    "index.html": "/learn-typing/index.html",
+    "main.acc72603.css.map": "/learn-typing/static/css/main.acc72603.css.map",
+    "main.0978bb0d.js.map": "/learn-typing/static/js/main.0978bb0d.js.map",
+    "787.34192d8a.chunk.js.map": "/learn-typing/static/js/787.34192d8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acc72603.css",
+    "static/js/main.0978bb0d.js"
+  ]
+}
